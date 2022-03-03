@@ -51,3 +51,4 @@ while game_is_on:
         # time.sleep(1)
 
 screen.exitonclick()
+###### 222222
